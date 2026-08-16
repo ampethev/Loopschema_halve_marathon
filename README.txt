@@ -31,3 +31,10 @@ VERSIE 4
 - Zaterdag: rust.
 - Zondag: lange duurloop.
 - Krachtvolume wordt verminderd in herstel-, taper- en wedstrijdweken.
+
+
+VERSIE 5
+- Vandaag toont de echte dagtraining bovenaan.
+- Bij kracht/core verschijnen de oefeningen direct met tekening, dosis en uitleg.
+- Elke oefening kan afzonderlijk worden afgevinkt.
+- De volledige krachtsessie kan met één knop als uitgevoerd worden geregistreerd.
