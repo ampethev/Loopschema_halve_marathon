@@ -20,3 +20,14 @@ INSTALLATIE
 
 GARMIN
 TCX/GPX-import werkt zonder API-account. Voor automatische synchronisatie is zakelijke Garmin Developer Program-toegang nodig. Zie server/GARMIN-INTEGRATIE.md.
+
+VERSIE 4
+- Volledige 7-daagse weekplanning geïntegreerd.
+- Maandag: kracht/core A (algemene loopkracht).
+- Dinsdag: looptraining.
+- Woensdag: kracht/core B (romp/heupstabiliteit).
+- Donderdag: looptraining.
+- Vrijdag: lichte core/kracht C (activatie, geen spiervermoeidheid).
+- Zaterdag: rust.
+- Zondag: lange duurloop.
+- Krachtvolume wordt verminderd in herstel-, taper- en wedstrijdweken.
